@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
-import 'add.dart';
-import 'edit.dart';
+import 'add_page.dart';
+import 'edit_page.dart';
 
 class Home extends StatefulWidget {
   @override
